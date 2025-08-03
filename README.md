@@ -219,10 +219,9 @@ To contribute improvements or report issues:
 ## 👤 Contact Information
 
 For questions about dashboard functionality or data updates:
-- **Project Owner**: [Your Name]
-- **Email**: [your.email@company.com]
-- **Department**: Business Analytics
-- **Last Updated**: [Current Date]
+- **Project Owner**: mohamed nabil 
+- **Email**: mohamed2nabil5@gmail.com
+
 
 ---
 
